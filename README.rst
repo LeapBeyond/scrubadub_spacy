@@ -13,12 +13,13 @@
 scrubadub_spacy
 ***************
 
-`scrubadub` removes personally identifiable information from text.
-`scrubadub_spacy` is an extension that uses spaCy NLP models to remove personal information from text.
+``scrubadub`` removes personally identifiable information from text.
+``scrubadub_spacy`` is an extension that uses spaCy NLP models to remove personal information from text.
 
 This package contains two extra detectors:
- * **SpacyEnityDetector** - A detector that uses the spacy NER model to find locations, names, dates and other entities.
- * **SpacyNameDetector** - A detector that uses the spacy NER model and context words to find names in text.
+
+* ``scrubadub_spacy.detectors.SpacyEnityDetector`` - A detector that uses the spacy NER model to find locations, names, dates and other entities.
+* ``scrubadub_spacy.detectors.SpacyNameDetector`` - A detector that uses the spacy NER model and context words to find names in text.
 
 For more information on how to use this package see the
 `scrubadub spacy documentation <https://scrubadub.readthedocs.io/en/develop/names.html#spacy>`_
