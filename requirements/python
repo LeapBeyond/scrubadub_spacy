@@ -1,0 +1,6 @@
+scrubadub >= 2.0.0rc0
+
+# Extra dependencies for spacy detector
+spacy[transformers]>=3.0.0 ; python_version>='3.6'
+# wheel is needed for spacy to do its funky model management, not sure why its not a dep of spacy directly
+wheel

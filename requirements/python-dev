@@ -1,0 +1,15 @@
+# install everything in the python requirements too.
+-r python
+
+# needed to run the tests
+flake8
+coveralls
+nose
+mypy
+tox
+
+# needed for the tests/run.py script
+wasabi
+
+# Needed due to dependancy via spacy
+types-requests
