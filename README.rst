@@ -26,8 +26,8 @@ For more information on how to use this package see the
 and the `scrubadub repository <https://github.com/LeapBeyond/scrubadub>`_.
 
 
-.. image:: https://img.shields.io/github/workflow/status/LeapBeyond/scrubadub_spacy/Python%20package/master
-   :target: https://github.com/LeapBeyond/scrubadub_spacy/actions?query=workflow%3A%22Python+package%22+branch%3Amaster
+.. image:: https://img.shields.io/github/workflow/status/LeapBeyond/scrubadub_spacy/Python%20package/main
+   :target: https://github.com/LeapBeyond/scrubadub_spacy/actions?query=workflow%3A%22Python+package%22+branch%3Amain
    :alt:  Build Status
 .. image:: https://img.shields.io/pypi/v/scrubadub_spacy.svg
    :target: https://pypi.org/project/scrubadub_spacy/
