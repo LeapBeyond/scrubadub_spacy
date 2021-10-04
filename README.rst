@@ -35,7 +35,7 @@ and the `scrubadub repository <https://github.com/LeapBeyond/scrubadub>`_.
 .. image:: https://img.shields.io/pypi/dm/scrubadub_spacy.svg
    :target: https://pypi.org/project/scrubadub_spacy/
    :alt:  Downloads
-.. image:: https://coveralls.io/repos/github/LeapBeyond/scrubadub_spacy/badge.svg?branch=master
+.. image:: https://coveralls.io/repos/github/LeapBeyond/scrubadub_spacy/badge.svg?branch=main
    :target: https://coveralls.io/r/LeapBeyond/scrubadub_spacy
    :alt:  Test Coverage
 .. image:: https://readthedocs.org/projects/scrubadub/badge/?version=latest
